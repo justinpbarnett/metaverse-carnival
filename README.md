@@ -11,7 +11,15 @@ Hey there!! The Metaverse Carnival is our attempt at de-centralized VR game deve
 # Contribute
 We would love for you to add your touch to the game! All experience levels are welcome (don't worry, we won't let you break anything). There's definitely [something](https://trello.com/v/6rbCYcIf/tasks-available) you can add! Head over to our [Trello board](https://trello.com/b/jwHibRiX/the-metaverse-carnival-roadmap) for instructions on how the contribution progress works.
 
-Justin has posted a [video]() about the project, so check that out for some more info about the process and end goals.
+Justin has posted a [video](https://www.youtube.com/JustinPBarnett) about the project, so check that out for some more info about the process and end goals.
+
+### Steps to contribute
+1) Fork the repository and clone it locally. Connect your local to the original “upstream” repository by adding it as a remote. Pull in changes from “upstream” often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
+2) Create a branch for your edits (for example, "contributors/JustinPBarnett/player-controller-bug").
+3) Create a PR early. Reference any relevant issues or supporting documentation in your PR (for example, “Issue...” or "Trello task...") and include a link.
+4) Include screenshots of the before and after if your changes include visual differences. Drag and drop the images into the body of your pull request.
+5) Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
+6) Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
 If you feel like tackling some [bugs](https://trello.com/v/04j3I4EO/bugs), we would love you forever!
 
