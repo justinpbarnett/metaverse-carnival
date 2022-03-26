@@ -4,12 +4,12 @@
 Hey there!! The Metaverse Carnival is our attempt at de-centralized VR game development. This is an open-source VR game made entirely by the community. The game will immerse you in that nostalgic carnival vibe. Walk around, play games, (maybe even hang out with other people in multiplayer?) and loads more. This world is really our oyster and we can create the coolest carnival this side of the metaverse!
 
 # Follow the progress
-- See the roadmap over on our [Trello board](https://trello.com/b/jwHibRiX/the-metaverse-carnival-roadmap)
+- See the roadmap over on our [Trello board](https://trello.com/invite/b/jwHibRiX/561047a10c4c8b5e85d20bf12db833f5/the-metaverse-carnival-roadmap)
 - Keep up with the discussion and give your feedback and input in the **Community Game** section of the [Discord](https://discord.gg/6mzMQx5VKk)
 - And check out any major updates over on [Justin's YouTube Channel](https://www.youtube.com/JustinPBarnett)
 
 # Contribute
-We would love for you to add your touch to the game! All experience levels are welcome (don't worry, we won't let you break anything). There's definitely [something](https://trello.com/v/6rbCYcIf/tasks-available) you can add! Head over to our [Trello board](https://trello.com/b/jwHibRiX/the-metaverse-carnival-roadmap) for instructions on how the contribution progress works.
+We would love for you to add your touch to the game! All experience levels are welcome (don't worry, we won't let you break anything). There's definitely [something](https://trello.com/v/6rbCYcIf/tasks-available) you can add! Head over to our [Trello board](https://trello.com/invite/b/jwHibRiX/561047a10c4c8b5e85d20bf12db833f5/the-metaverse-carnival-roadmap) for instructions on how the contribution progress works.
 
 Justin has posted a [video](https://www.youtube.com/JustinPBarnett) about the project, so check that out for some more info about the process and end goals.
 
